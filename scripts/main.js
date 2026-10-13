@@ -23,7 +23,7 @@ const applicationHTML = `
 
 <article class="assignments">
     <h2>Current Assignments</h2>
-    ${Assignments()}
+    ${Assignments()}                                 
 </article>
 `
 
